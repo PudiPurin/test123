@@ -26,5 +26,10 @@ namespace WinFormsApp9
         {
             MessageBox.Show("hello world 2");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("test");
+        }
     }
 }
